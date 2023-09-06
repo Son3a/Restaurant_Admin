@@ -1,0 +1,8 @@
+E:\Documents\ThucTapTotNghiep\project\Restaurant\Restaurant\obj\Release\Restaurant.csproj.AssemblyReference.cache
+E:\Documents\ThucTapTotNghiep\project\Restaurant\Restaurant\obj\Release\Restaurant.csproj.SuggestedBindingRedirects.cache
+E:\Documents\ThucTapTotNghiep\project\Restaurant\Restaurant\obj\Release\Restaurant.BookingDetail.resources
+E:\Documents\ThucTapTotNghiep\project\Restaurant\Restaurant\obj\Release\RestaurantAdmin.BookingForm.resources
+E:\Documents\ThucTapTotNghiep\project\Restaurant\Restaurant\obj\Release\RestaurantAdmin.MainForm.resources
+E:\Documents\ThucTapTotNghiep\project\Restaurant\Restaurant\obj\Release\Restaurant.Properties.Resources.resources
+E:\Documents\ThucTapTotNghiep\project\Restaurant\Restaurant\obj\Release\Restaurant.csproj.GenerateResource.cache
+E:\Documents\ThucTapTotNghiep\project\Restaurant\Restaurant\obj\Release\Restaurant.csproj.CoreCompileInputs.cache
